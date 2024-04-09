@@ -1,0 +1,86 @@
+.white-padding {
+    padding: 20px;
+    background-color: white;
+}
+.gray-padding {
+    padding: 30px 70px ;
+
+    background-color: #d3d3d3;
+}
+.yellow-padding {
+    background-color: #ffffdc;
+}
+body {
+    font-family:serif;
+    padding: 0px;
+    margin: 15%;
+    border: 2px #aa2222 solid;
+    background-color:#ffffdc;
+}
+header {
+    padding: 10px;
+    text-align: center;
+    background-color: #aa2222;
+    color: white;
+}
+main {
+    padding: 0px;
+    font-family: Calibri, sans-serif;
+}
+.separator {
+    border: 1px solid #aa2222 ; 
+    margin-left: 22px;
+    margin-bottom: 0px;
+    margin-right: 22px;
+}
+.section {
+    padding-left: 20px;
+    font-size: 15px;
+    padding-right: 20px;
+}
+footer {
+    background-color:white ;
+    border-top: 0px solid#c7ccbd;
+    color: #fff;
+    text-align:right;
+    padding: 10px;
+    bottom: 0;
+    width: auto;
+    border-left: 17px solid #c7ccbd ;
+    border-right: 17px solid #c7ccbd ;
+}
+.footer-content {
+    max-width: 800px;
+    margin: auto;
+    color: black;
+    background-color: #ffffdc;
+    font-size: 12px;
+    font-family: sans-serif;
+}
+.centered-image {
+    max-width: 400px;
+}
+.centered-square {
+    text-align: center;
+    padding-bottom: 12px;
+    background-color:#ffffdc ;
+    border: black 2px solid;
+    margin: auto;
+    width: 420px;
+}
+.gray-underline {
+    color: grey;
+    text-decoration: underline;
+}
+.literature-poem {
+    margin: 10px;
+    padding-left: 25px;
+}
+.literature-poem p {
+    margin: 0px;
+    line-height: 1.2;
+}
+h2{
+    font-family:serif;
+    font-style: italic;
+}
